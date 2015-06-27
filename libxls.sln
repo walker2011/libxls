@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libxls", "libxls\libxls.vcxproj", "{DBF0E711-DF76-462F-B388-40885DCFE35D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBF0E711-DF76-462F-B388-40885DCFE35D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DBF0E711-DF76-462F-B388-40885DCFE35D}.Debug|Win32.Build.0 = Debug|Win32
+		{DBF0E711-DF76-462F-B388-40885DCFE35D}.Release|Win32.ActiveCfg = Release|Win32
+		{DBF0E711-DF76-462F-B388-40885DCFE35D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
